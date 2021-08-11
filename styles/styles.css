@@ -248,6 +248,7 @@ footer p {
 		padding: 25px;
 		opacity: .9;
 		transition: .4s all ease-in-out;
+		z-index: 1;
 	}
 	nav#nav-bar ul.nav-menu-left.show {
 		transform: translateX(-10px);
